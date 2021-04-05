@@ -1,0 +1,2 @@
+neocd
+/mnt/hdisk/retroarch/bin/neocd
