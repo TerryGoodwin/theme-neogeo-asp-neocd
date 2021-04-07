@@ -12,6 +12,14 @@ on the system - those being games that have some difference from the AES cartrid
 versions. As such, this is not a complete collection of cards, but if you want to add
 your own a template has been included to do so!
 
+# What it looks like
+
+An example card:  
+![alt text](https://raw.githubusercontent.com/TerryGoodwin/theme-neogeo-asp-neocd/main/ASPh/games/neocd_ssrpge/cover.png "Samurai Shodown RPG card")
+
+A crude photo taken from the TV of the theme in action:  
+![alt text](https://raw.githubusercontent.com/TerryGoodwin/theme-neogeo-asp-neocd/main/photo_inaction.png "Photo from the TV")
+
 # Before you start!
 
 Make a backup of your `ASPh` directory before making any changes! It's very easy to mess
